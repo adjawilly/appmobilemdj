@@ -1,0 +1,62 @@
+[
+    {
+      "id": 0,
+      "title": "Netoyage Split",
+      "libelleCategorie":"Netoyage Split",
+      "iconCategorie":"cube"
+    },
+    {
+      "id": 1,
+      "title": "Peinture",
+      "libelleCategorie":"Peinture",
+      "iconCategorie":"brush"
+    },
+    {
+      "id": 2,
+      "title": "Maçonnerie",
+      "libelleCategorie":"Maçonnerie",
+      "iconCategorie":"water"
+    },
+    {
+      "id": 3,
+      "title": "Plomberie",
+      "libelleCategorie":"Plomberie",
+      "iconCategorie":"door-open"
+    },
+    {
+      "id": 4,
+      "title": "Electricité",
+      "libelleCategorie":"Electricité",
+      "iconCategorie":"robot"
+    },
+    {
+      "id": 5,
+      "title": "Entretien Maison",
+      "libelleCategorie":"Entretien Maison",
+      "iconCategorie":"wallet"
+    },
+    {
+        "id": 6,
+        "title": "Nounous",
+      "libelleCategorie":"Nounous",
+      "iconCategorie":"baby"
+      },
+      {
+        "id": 7,
+        "title": "Service Restaurant",
+      "libelleCategorie":"Service Restaurant",
+      "iconCategorie":"reply"
+      },
+      {
+        "id": 8,
+        "title": "Soin de beauté",
+      "libelleCategorie":"Soin de beauté",
+      "iconCategorie":"repeat"
+      },
+      {
+        "id": 9,
+        "title": "Mécanic",
+      "libelleCategorie":"Mécanic",
+      "iconCategorie":"car"
+      }
+  ]

@@ -1,0 +1,37 @@
+[
+    {
+        "id":1,
+        "libelle":"Mon adresse",
+        "icone":"adress"
+    },
+    {
+        "id":2,
+        "libelle":"Mes commandes",
+        "icone":""
+    },
+    {
+        "id":3,
+         "libelle":"Ma Boite de notification",
+        "icone":"alarm"
+    },
+    {
+        "id":4,
+         "libelle":"Bon d'achat",
+        "icone":""
+    },
+    {
+        "id":5,
+         "libelle":"Consultés récemment",
+        "icone":""
+    },
+    {
+        "id":6,
+         "libelle":"Reherché récemment",
+        "icone":""
+    },
+    {
+        "id":7,
+         "libelle":"Changer Mot de passe",
+        "icone":"key"
+    }
+]
